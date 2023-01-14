@@ -10,7 +10,7 @@ This is a solution to the [Interactive card details form on Frontend Mentor](htt
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
