@@ -40,4 +40,5 @@ This is a solution to the [Interactive card details form on Frontend Mentor](htt
 ## Author
 
 - GitHub - [Nika Merebashvili](https://github.com/nikamerebashvili95)
+- Linkedin - [Nika Merebashvili](https://www.linkedin.com/in/nikamerebashvili)
 
